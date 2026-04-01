@@ -56,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshid001&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Harshid001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=discord&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -85,7 +85,11 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 > ⚙️ *To enable the snake, add the [Platane/snk GitHub Action](https://github.com/Platane/snk) to your profile repo.*
