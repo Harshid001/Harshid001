@@ -54,16 +54,6 @@
 - ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harshid-soni-441500385/)
 
-<br clear="right"/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="coding gif"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="github gif"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="react gif"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
