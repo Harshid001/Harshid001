@@ -56,11 +56,6 @@
 
 <br clear="right"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="coding gif"/>
-  &nbsp;&nbsp;
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
