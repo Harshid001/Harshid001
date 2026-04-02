@@ -117,7 +117,10 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Harshid001/Harshid001/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
 
 ---
 
