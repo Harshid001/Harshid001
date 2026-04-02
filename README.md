@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshid%20Soni&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20React%20Native%20%7C%20Open%20Source&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation — name included -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Harshid+Soni+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Node+%7C+Express+%7C+MongoDB;React+Native+Mobile+Developer+%F0%9F%93%B1;Building+Seamless+Web+%26+Mobile+Experiences+%F0%9F%8C%90;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
@@ -9,14 +9,14 @@
 <!-- Profile Badges -->
 <p align="center">
   <a href="https://github.com/Harshid001">
-    <img src="https://img.shields.io/github/followers/Harshid001?label=Followers&style=social" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/Harshid001?label=Followers&style=social"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/harshid-soni-441500385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Harshid001&label=Profile%20Views&color=6C63FF&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Harshid001&label=Profile%20Views&color=6C63FF&style=flat"/>
 </p>
 
 ---
@@ -56,16 +56,6 @@
 
 <br clear="right"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="coding gif"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="github gif"/>
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="react gif"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
@@ -87,16 +77,14 @@
 
 ## 📊 GitHub Stats
 
-<!-- Row 1: Stats + Languages -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Harshid's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<!-- Row 2: Streak — using github-readme-streak-stats (reliable community instance) -->
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshid001&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 ---
@@ -104,7 +92,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 </p>
 
 ---
@@ -112,20 +100,18 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&bg_color=1a1b27&color=628fdb&line=6C63FF&point=00D9FF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&bg_color=1a1b27&color=628fdb&line=6C63FF&point=00D9FF&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-> ⚠️ **First-time setup:** Go to **Actions tab → "Generate Snake Animation" → Run workflow** to generate the snake. It appears here automatically after that.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
@@ -134,5 +120,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <b>⭐ If you find my work useful, consider starring my repos! Thanks for visiting 🙏</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%99%8F;⭐+Star+my+repos+if+you+find+them+useful!;Let's+connect+and+grow+together+%F0%9F%8C%B1" alt="Footer Typing" />
 </p>
