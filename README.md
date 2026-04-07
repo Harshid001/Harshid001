@@ -71,11 +71,6 @@
 - 🌟 **Portfolio**: [Visit My Digital Garden](https://portfolio-pied-omega-24.vercel.app/)
 - ⚡ **Fun Fact**: I speak fluent **JavaScript** and broken **English** (sometimes).
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaDhzZnd6eXk0Z3R6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="GitHub Animation"/>
-</p>
 
 ---
 
