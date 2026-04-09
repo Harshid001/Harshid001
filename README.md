@@ -85,11 +85,7 @@
 
 📊 GitHub Stats & Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=9dff00&icon_color=9dff00&text_color=ffffff&bg_color=0d1117" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=radical&hide_border=true&stroke=9dff00&background=0d1117&ring=9dff00&fire=9dff00&currStreakLabel=9dff00" height="180"/> </p>
-🧠 Top Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=9dff00&text_color=ffffff&bg_color=0d1117" height="160"/> </p>
 
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/> </p>
 ⚡ Profile Summary Card (Advanced)
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshid001&theme=radical"/> </p>
 
