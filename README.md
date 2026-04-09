@@ -22,6 +22,27 @@
 
 ---
 
+---
+
+## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaDhzZnd6eXk0Z3R6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="MERN Stack Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+</p>
+
+- 🚀 **MERN Stack Architect**: Crafting robust web applications with **MongoDB, Express, React, and Node.js**.
+- 📱 **Mobile Developer**: Building cross-platform experiences using **React Native**.
+- 🛠️ **Systems Thinker**: Passionate about clean code, performance optimization, and scalable architecture.
+- 🎓 **Continuous Learner**: Currently deep-diving into **Next.js 14, TypeScript, and AWS**.
+- 🌟 **Portfolio**: [Visit My Digital Garden](https://portfolio-pied-omega-24.vercel.app/)
+- ⚡ **Fun Fact**: I speak fluent **JavaScript** and broken **English** (sometimes).
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -49,29 +70,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
-
-## 🧑‍💻 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaDhzZnd6eXk0Z3R6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6Zzh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="MERN Stack Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
-
-- 🚀 **MERN Stack Architect**: Crafting robust web applications with **MongoDB, Express, React, and Node.js**.
-- 📱 **Mobile Developer**: Building cross-platform experiences using **React Native**.
-- 🛠️ **Systems Thinker**: Passionate about clean code, performance optimization, and scalable architecture.
-- 🎓 **Continuous Learner**: Currently deep-diving into **Next.js 14, TypeScript, and AWS**.
-- 🌟 **Portfolio**: [Visit My Digital Garden](https://portfolio-pied-omega-24.vercel.app/)
-- ⚡ **Fun Fact**: I speak fluent **JavaScript** and broken **English** (sometimes).
-
-
 ---
 
 ## 🛠️ Tech Stack & Tools
