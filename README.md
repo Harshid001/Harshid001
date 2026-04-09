@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=9dff00&icon_color=9dff00&text_color=ffffff&bg_color=0d1117" height="180"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=radical&hide_border=true&stroke=9dff00&background=0d1117&ring=9dff00&fire=9dff00&currStreakNum=ffffff" height="180"/>
+ 
 </p>
 
 <p align="center">
