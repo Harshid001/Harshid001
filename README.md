@@ -72,19 +72,14 @@
 </p>
 ---
 
-## 🛠️ Tech Stack & Tools
+🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,reactnative,ts,git,github,vscode,figma,postman,vercel,netlify&perline=10&theme=dark" alt="My Tech Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=9dff00&center=true&vCenter=true&width=600&lines=Frontend:+React+|+Next.js+|+Tailwind;Backend:+Node+|+Express+|+MongoDB;Mobile:+React+Native;Tools:+Git+|+Docker+|+AWS" alt="Tech Typing" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
+🎨 Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts&theme=dark" /> </p> <p align="center"> React • Next.js • Tailwind CSS • TypeScript • Responsive UI </p>
+⚙️ Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" /> </p> <p align="center"> Node.js • Express.js • MongoDB • MySQL • Firebase • REST APIs </p>
+🧠 Other Skills & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,reactnative&theme=dark" /> </p> <p align="center"> Git • GitHub • VS Code • Figma • Postman • Vercel • Netlify • React Native </p>
 
 ---
 
