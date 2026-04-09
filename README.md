@@ -95,22 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=9dff00&text_color=ffffff&bg_color=0d1117" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
-
 ---
 
 ## 📈 Contribution Activity
