@@ -79,225 +79,52 @@ const harshid: Developer = {
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 🔤  LANGUAGES & CORE                                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![Languages](https://img.shields.io/badge/─────────────────────%20🔤%20LANGUAGES%20%26%20CORE%20─────────────────────-0d1117?style=for-the-badge&labelColor=e94560&color=0d1117)
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="52" height="52"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="52" height="52"/><br/>
-      <sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="52" height="52"/><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="52" height="52"/><br/>
-      <sub><b>C</b></sub>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 🎨  FRONTEND                                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+**`🔤 Languages & Core`**
 
-![Frontend](https://img.shields.io/badge/──────────────────────────%20🎨%20FRONTEND%20──────────────────────────-0d1117?style=for-the-badge&labelColor=533483&color=0d1117)
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c&theme=dark&perline=8"/>
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="52" height="52"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="52" height="52"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="52" height="52"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Vite</b></sub>
-    </td>
-  </tr>
-</table>
+<br/><br/>
 
-<br/>
+**`🎨 Frontend`**
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- ⚙️  BACKEND & APIs                                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&theme=dark&perline=8"/>
 
-![Backend](https://img.shields.io/badge/─────────────────────%20⚙️%20BACKEND%20%26%20APIs%20─────────────────────-0d1117?style=for-the-badge&labelColor=0f3460&color=0d1117)
+<br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Express.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Postman</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Socket.io</b></sub>
-    </td>
-  </tr>
-</table>
+**`⚙️ Backend & APIs`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman,socketio&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**`🗄️ Database`**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma,redis&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**`📱 Mobile`**
+
+<img src="https://skillicons.dev/icons?i=react,expo,redux&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**`🚀 DevTools & Deployment`**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,linux&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**`🎭 Design & UI`**
+
+<img src="https://skillicons.dev/icons?i=figma,framermotion,styledcomponents&theme=dark&perline=8"/>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 🗄️  DATABASE                                                   -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![Database](https://img.shields.io/badge/──────────────────────────%20🗄️%20DATABASE%20──────────────────────────-0d1117?style=for-the-badge&labelColor=1a6b3c&color=0d1117)
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="52" height="52"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="52" height="52"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Prisma ORM</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Redis</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 📱  MOBILE                                                     -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![Mobile](https://img.shields.io/badge/───────────────────────────%20📱%20MOBILE%20───────────────────────────-0d1117?style=for-the-badge&labelColor=b5560a&color=0d1117)
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="52" height="52"/><br/>
-      <sub><b>React Native</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=expo&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Expo</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Firebase Push</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Redux</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 🚀  DEVTOOLS & DEPLOYMENT                                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![DevTools](https://img.shields.io/badge/──────────────%20🚀%20DEVTOOLS%20%26%20DEPLOYMENT%20──────────────-0d1117?style=for-the-badge&labelColor=7c3aed&color=0d1117)
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Netlify</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="52" height="52"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!-- 🎭  DESIGN & UI                                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![Design](https://img.shields.io/badge/──────────────────────────%20🎭%20DESIGN%20%26%20UI%20──────────────────────────-0d1117?style=for-the-badge&labelColor=b91c8c&color=0d1117)
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=framermotion&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Framer Motion</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" width="52" height="52"/><br/>
-      <sub><b>Styled Comp.</b></sub>
-    </td>
-  </tr>
-</table>
 
 </div>
-
+---
 
 
 ## 📊 GitHub Analytics
