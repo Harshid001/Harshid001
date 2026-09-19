@@ -140,14 +140,26 @@ const harshid: Developer = {
 
 ---
 
-## 📈 Contribution Activity
+## 🔭 What I'm Currently Building
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshid001&theme=tokyonight" height="155"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshid001&theme=tokyonight" height="155"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshid001&theme=tokyonight" height="155"/>
+
+![Next.js](https://img.shields.io/badge/Next.js%2014-SSR%20App-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-Mobile%20App-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Migrating%20Codebase-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Prompt%20Engineering-a78bfa?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+<div align="center">
+
+| 🧩 PROJECT | 🛠 STACK | STATUS |
+|:---|:---:|:---:|
+| 🌐 **Portfolio Website** | React · Vite · Framer Motion | ✅ Live |
+| 🤖 **Smart Factory AI** | Node.js · MongoDB · GenAI | 🔨 Building |
+| 📱 **Cross-Platform App** | React Native · Firebase | 🔨 Building |
+| 🧠 **DSA Practice Tracker** | Next.js · TypeScript · MongoDB | 📋 Planned |
+
 </div>
 
 ---
@@ -169,7 +181,7 @@ const harshid: Developer = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=540&lines=Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;Slide+into+my+LinkedIn+DMs+%F0%9F%93%A9;Let%27s+Build+Something+Awesome!+%F0%9F%9A%80;Don%27t+forget+to+%E2%AD%90+my+repos!" alt="Social Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=540&lines=Open+to+Freelance+%26+Full-Time+Roles;Slide+into+my+LinkedIn+DMs;Let%27s+Build+Something+Awesome!;Don%27t+forget+to+star+my+repos!" alt="Social Typing" />
 </div>
 
 <br/>
