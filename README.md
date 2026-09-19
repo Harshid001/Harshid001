@@ -8,7 +8,7 @@
 
 <!-- TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Hey!+I'm+Harshid+Soni;⚡+Full+Stack+MERN+Developer;🧠+DSA+%7C+C%2B%2B+%7C+Competitive+Programmer;🏆+Smart+India+Hackathon+Finalist;📱+React+Native+Mobile+Craftsman;🌐+Next.js+%7C+TypeScript+%7C+Node.js;💡+Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=Hey!+I%27m+Harshid+Soni+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;DSA+%7C+C%2B%2B+%7C+Competitive+Programmer+%F0%9F%A7%A0;Smart+India+Hackathon+Finalist+%F0%9F%8F%86;React+Native+Mobile+Craftsman+%F0%9F%93%B1;Next.js+%7C+TypeScript+%7C+Node.js+%F0%9F%8C%90;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -72,7 +72,7 @@ const harshid: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 </div>
 
 ---
@@ -80,13 +80,15 @@ const harshid: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&stroke=00f5ff&dates=8b8b8b" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=10" height="155"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshid001&theme=tokyonight" height="155"/>
 </div>
 
 <div align="center">
@@ -148,7 +150,7 @@ const harshid: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
@@ -169,7 +171,7 @@ const harshid: Developer = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=540&lines=💼+Open+to+Freelance+%26+Full-Time+Roles;📩+Slide+into+my+LinkedIn+DMs;🚀+Let's+Build+Something+Awesome!;⭐+Don't+forget+to+star+my+repos!" alt="Social Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=540&lines=Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;Slide+into+my+LinkedIn+DMs+%F0%9F%93%A9;Let%27s+Build+Something+Awesome!+%F0%9F%9A%80;Don%27t+forget+to+%E2%AD%90+my+repos!" alt="Social Typing" />
 </div>
 
 <br/>
@@ -210,9 +212,11 @@ const harshid: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=a78bfa&center=true&vCenter=true&width=660&lines=Thanks+for+visiting!+🙏;Keep+Coding%2C+Keep+Shipping!+🚀;Don't+forget+to+⭐+my+repos!;See+you+in+the+commits+👋" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=a78bfa&center=true&vCenter=true&width=660&lines=Thanks+for+visiting!;Keep+Coding%2C+Keep+Shipping!;Star+my+repos+if+you+like+them!;See+you+in+the+next+commit!" alt="Footer Typing" />
 </div>
 
+<br/>
+
 <div align="center">
-  <sub>⚡ Crafted with 💜 by <strong>Harshid Soni</strong> · Powered by caffeine & curiosity ☕</sub>
+  <sub>⚡ Crafted with 💜 by <strong>Harshid Soni</strong> · Powered by caffeine &amp; curiosity ☕</sub>
 </div>
