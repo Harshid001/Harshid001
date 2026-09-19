@@ -72,7 +72,7 @@ const harshid: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=onedark&no-frame=false&no-bg=true&margin-w=6&column=4" />
 </div>
 
 ---
@@ -80,15 +80,15 @@ const harshid: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&stroke=00f5ff&dates=8b8b8b" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&stroke=00f5ff&dates=8b8b8b" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=10" height="155"/>
-  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshid001&theme=tokyonight" height="155"/>
+  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshid001&theme=tokyonight" height="155"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshid001&theme=tokyonight" height="155"/>
 </div>
 
 <div align="center">
@@ -150,7 +150,9 @@ const harshid: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshid001&theme=tokyonight&utcOffset=5.5" height="155"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshid001&theme=tokyonight" height="155"/>
 </div>
 
 ---
