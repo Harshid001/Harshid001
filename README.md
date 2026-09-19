@@ -1,39 +1,29 @@
-<!-- ══════════════════════════════════════════════════════════════════
-     HEADER — Capsule Render (twinkling gradient banner)
-══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,20&height=320&section=header&text=Harshid%20Soni&fontSize=80&fontColor=9dff00&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Architect%20%7C%20MERN%20%7C%20React%20Native%20%7C%20Next.js&descAlignY=62&descSize=20&descColor=d0d0d0&stroke=9dff00&strokeWidth=2" width="100%"/>
-</p>
+<!-- ANIMATED HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Harshid%20Soni&fontSize=70&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&desc=⚡%20Full%20Stack%20Architect%20·%20MERN%20·%20React%20Native%20·%20Next.js&descSize=18&descAlignY=78&descColor=a78bfa" width="100%"/>
+</div>
 
-<!-- ══════════════════════════════════════════════════════════════════
-     TYPING ANIMATION
-══════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=6C63FF&center=true&vCenter=true&width=780&lines=Hey!+I%27m+Harshid+Soni+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node+%7C+MongoDB+%7C+TypeScript;React+Native+Mobile+Craftsman+%F0%9F%93%B1;Smart+India+Hackathon+Finalist+%F0%9F%8F%86;Building+Seamless+Web+%26+Mobile+Experiences+%F0%9F%8C%90;C%2B%2B+%7C+DSA+%7C+Competitive+Programming+%F0%9F%A7%A0;Always+Learning%2C+Always+Shipping+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
+<!-- ANIMATED NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ══════════════════════════════════════════════════════════════════
-     TOP BADGES
-══════════════════════════════════════════════════════════════════ -->
-<p align="center">
+<!-- TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Hey!+I'm+Harshid+Soni;⚡+Full+Stack+MERN+Developer;🧠+DSA+%7C+C%2B%2B+%7C+Competitive+Programmer;🏆+Smart+India+Hackathon+Finalist;📱+React+Native+Mobile+Craftsman;🌐+Next.js+%7C+TypeScript+%7C+Node.js;💡+Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES ROW -->
+<div align="center">
   <a href="https://github.com/Harshid001">
-    <img src="https://img.shields.io/github/followers/Harshid001?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=9dff00&labelColor=0d1117"/>
+    <img src="https://img.shields.io/github/followers/Harshid001?label=Followers&style=for-the-badge&logo=github&color=00f5ff&labelColor=0d1117&logoColor=00f5ff"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/harshid-soni-441500385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio-pied-omega-24.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-9dff00?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Harshid001&label=Profile+Views&color=9dff00&style=for-the-badge"/>
-</p>
+  <img src="https://img.shields.io/badge/STATUS-Open%20To%20Work-00ff88?style=for-the-badge&logo=statuspage&logoColor=black"/>
+  <img src="https://komarev.com/ghpvc/?username=Harshid001&label=PROFILE+VIEWS&color=a78bfa&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-ff6b6b?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -41,177 +31,156 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-### 🚀 Who Am I?
-
-```yaml
-name    : Harshid Soni
-role    : Full Stack Architect
-stack   : MERN · Next.js · TypeScript · React Native
-location: India 🇮🇳
-focus   : Web & Mobile · Clean Code · Scalable Systems
-status  : Open to Opportunities ✅
-```
-
-- 🏆 **Smart India Hackathon Finalist** — National Level, 2026
-- 🎓 **Certified** in Full-Stack Dev (Apna College Delta) & GenAI
-- 📱 Cross-platform mobile apps with **React Native**
-- 🧠 Strong in **DSA**, **C/C++** & competitive programming
-- 🌱 Currently levelling up: **Next.js 14**, **TypeScript**, **AWS**
-- ⚡ Fun fact: I debug faster with lo-fi music 🎧
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="48%" valign="top">
+<br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding GIF"/>
+```typescript
+const harshid: Developer = {
+  name:     "Harshid Soni",
+  role:     "Full Stack Architect",
+  location: "India 🇮🇳",
+
+  tech: {
+    frontend:  ["React", "Next.js", "TypeScript"],
+    backend:   ["Node.js", "Express", "MongoDB"],
+    mobile:    ["React Native"],
+    languages: ["JavaScript", "C++", "C"],
+  },
+
+  highlights: [
+    "🏆 SIH Finalist — National 2026",
+    "🎓 5 Professional Certifications",
+    "⚡ 48h Hackathon Sprinter",
+    "🧠 DSA + Competitive Programmer",
+  ],
+
+  status: "Open to Opportunities ✅",
+};
+```
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%"/>
+</div>
 
 ---
 
-## 📊 GitHub At A Glance
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=9dff00&icon_color=9dff00&text_color=ffffff&bg_color=0d1117&ring_color=9dff00" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=radical&hide_border=true&stroke=9dff00&background=0d1117&ring=9dff00&fire=ff6e00&currStreakLabel=9dff00&sideLabels=9dff00" height="175"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshid001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&bg_color=0d1117" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshid001&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&stroke=00f5ff&dates=8b8b8b" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9dff00&text_color=ffffff&langs_count=8" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshid001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" height="200"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshid001&theme=radical" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshid001&theme=tokyonight" width="100%"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### ⚡ Languages
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c&theme=dark&perline=8"/>
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark&perline=8"/>
-</p>
-<p align="center">
-  <code>React</code> • <code>Next.js 14</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Framer Motion</code> • <code>Vite</code>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite,figma&theme=dark&perline=8"/>
 
 ### ⚙️ Backend & Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&theme=dark&perline=8"/>
-</p>
-<p align="center">
-  <code>Node.js</code> • <code>Express.js</code> • <code>MongoDB</code> • <code>MySQL</code> • <code>Firebase</code> • <code>REST APIs</code>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,prisma&theme=dark&perline=8"/>
 
-### 📱 Mobile & Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,cpp,c&theme=dark&perline=8"/>
-</p>
-<p align="center">
-  <code>React Native</code> • <code>C</code> • <code>C++</code> • <code>JavaScript ES6+</code> • <code>DSA</code>
-</p>
+### 📱 Mobile & Tools
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,postman,vercel,netlify,linux&theme=dark&perline=8"/>
 
-### 🧰 Tools & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,linux&theme=dark&perline=8"/>
-</p>
-<p align="center">
-  <code>Git</code> • <code>GitHub</code> • <code>VS Code</code> • <code>Figma</code> • <code>Postman</code> • <code>Vercel</code> • <code>Netlify</code>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-</p>
+</div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🎖️ Hackathons
-| Event | Level | Year |
-|---|---|---|
-| 🥇 Smart India Hackathon | 🌍 National | 2026 |
-| 🏅 Tic Tech Toe (IEEE DAIICT) | 🏢 National | 2026 |
-| 🏅 CodeFest Challenge | 🏙️ State | 2025 |
+| 🎖️ HACKATHONS | LEVEL | YEAR |
+|:---|:---:|:---:|
+| 🥇 **Smart India Hackathon** — Smart Factory AI | 🌍 **National** | 2026 |
+| 🏅 **Tic Tech Toe** — IEEE SB DAIICT | 🏢 **National** | 2026 |
+| 🏅 **CodeFest Challenge** — StudyBuddy Platform | 🏙️ **State** | 2025 |
 
-> 5+ hackathons · 48-hour sprints · Full-stack delivery under pressure
+| 📜 CERTIFICATIONS | ISSUER | YEAR |
+|:---|:---:|:---:|
+| 🤖 **Generative AI Mastermind** | Outskill | 2026 |
+| ⚡ **Delta Full-Stack Dev** | Apna College | 2026 |
+| 🧠 **TATA Crucible National Quiz** | Tata Group | 2025 |
+| 🏥 **Aarogya Setu 2.0** | Govt of India / NHA | 2025 |
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 📜 Certifications
-| Certificate | Issuer | Year |
-|---|---|---|
-| 🤖 Generative AI Mastermind | Outskill | 2026 |
-| 🏆 Tic Tech Toe '26 | IEEE SB DAIICT | 2026 |
-| ⚡ Delta Full-Stack Dev | Apna College | 2026 |
-| 🧠 TATA Crucible Quiz | Tata Group | 2025 |
-| 🏥 Aarogya Setu 2.0 | Govt of India / NHA | 2025 |
+<div align="center">
 
-</td>
-</tr>
-</table>
+![5+ Hackathons](https://img.shields.io/badge/Hackathons-5+-00f5ff?style=for-the-badge&logo=codewars&logoColor=white)
+![48h Sprint](https://img.shields.io/badge/Max%20Sprint-48H-ff6b6b?style=for-the-badge&logo=clockify&logoColor=white)
+![National Level](https://img.shields.io/badge/National%20Level-2x-a78bfa?style=for-the-badge&logo=google&logoColor=white)
+![Certifications](https://img.shields.io/badge/Certifications-5-00ff88?style=for-the-badge&logo=coursera&logoColor=black)
+
+</div>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&bg_color=0d1117&color=9dff00&line=6C63FF&point=ffffff&area=true&area_color=9dff00&hide_border=true&radius=8" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshid001&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=a78bfa&point=00f5ff&area=true&hide_border=true" width="100%"/>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Harshid001/Harshid001/blob/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Harshid001/Harshid001/blob/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://github.com/Harshid001/Harshid001/blob/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake-dark.svg"
+         onerror="this.src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif'"/>
   </picture>
-</p>
-
----
-
-## 🌐 Featured Projects
-
-<p align="center">
-  <a href="https://portfolio-pied-omega-24.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshid001&repo=Portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=9dff00&icon_color=9dff00&text_color=ffffff"/>
-  </a>
-</p>
-
-> 💡 More projects live at **[portfolio-pied-omega-24.vercel.app](https://portfolio-pied-omega-24.vercel.app/)**
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=9dff00&center=true&vCenter=true&width=500&lines=Let%27s+Collaborate!+%F0%9F%A4%9D;Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%92%BC;DM+me+on+LinkedIn+or+X+%F0%9F%93%A9;Building+the+Future+Together+%F0%9F%9A%80" alt="Social Typing" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=540&lines=💼+Open+to+Freelance+%26+Full-Time+Roles;📩+Slide+into+my+LinkedIn+DMs;🚀+Let's+Build+Something+Awesome!;⭐+Don't+forget+to+star+my+repos!" alt="Social Typing" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://github.com/Harshid001">
-    <img src="https://img.shields.io/badge/GitHub-Harshid001-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%40Harshid001-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/harshid-soni-441500385/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshid_Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Harshid%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://x.com/HarshidSoni2007">
@@ -223,27 +192,27 @@ status  : Open to Opportunities ✅
   </a>
   &nbsp;
   <a href="mailto:harshidsoni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-harshidsoni%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://portfolio-pied-omega-24.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9dff00?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site%20🌐-00f5ff?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
-</p>
+</div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=160&section=footer&animation=twinkling&fontColor=9dff00" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=140&section=footer&animation=twinkling&fontColor=00f5ff" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=9dff00&center=true&vCenter=true&width=640&lines=Thanks+for+visiting!+%F0%9F%99%8F;Keep+Coding%2C+Keep+Shipping!+%F0%9F%9A%80;Don%27t+forget+to+%E2%AD%90+my+repos!;See+you+in+the+commits+%F0%9F%91%8B" alt="Footer Typing" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=2000&color=a78bfa&center=true&vCenter=true&width=660&lines=Thanks+for+visiting!+🙏;Keep+Coding%2C+Keep+Shipping!+🚀;Don't+forget+to+⭐+my+repos!;See+you+in+the+commits+👋" alt="Footer Typing" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-  <br/>
-  <sub>⚡ Crafted with passion by <strong>Harshid Soni</strong> · Powered by caffeine &amp; curiosity ☕</sub>
-</p>
+<div align="center">
+  <sub>⚡ Crafted with 💜 by <strong>Harshid Soni</strong> · Powered by caffeine & curiosity ☕</sub>
+</div>
