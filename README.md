@@ -69,13 +69,6 @@ const harshid: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshid001&theme=onedark&no-frame=false&no-bg=true&margin-w=6&column=4" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
@@ -150,22 +143,25 @@ const harshid: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshid001&theme=tokyonight&utcOffset=5.5" height="155"/>
-  &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshid001&theme=tokyonight" height="155"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshid001&theme=tokyonight" height="155"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshid001&theme=tokyonight" height="155"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ⚡ Coding Vibes
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Harshid001/Harshid001/output/github-snake-dark.svg"
-         onerror="this.src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif'"/>
-  </picture>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
 ---
